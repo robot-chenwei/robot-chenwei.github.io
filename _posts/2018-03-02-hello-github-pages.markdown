@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title:  "hello git-hub pages!"
+title:  "hello github pages!"
 date:   2018-05-02 15:14:54
 categories: jekyll
 tags: jekyll
