@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
-title:  "Jekyll 搭建静态博客"
-date:   2015-02-15 22:14:54
+title: "Jekyll Build Static Blog"
+date: 2018-05-03 13:27:00
 categories: jekyll
 tags: jekyll RubyGems
 ---
@@ -9,22 +9,19 @@ tags: jekyll RubyGems
 * content
 {:toc}
 
-一直以来都想搭建一个自己的博客，但是近半年做项目太忙，再加上教研室的网络很坑爹，所以也一直没顾得上。之前用过 WordPress 托管在免费的京东云擎上，但是速度太慢。在知乎上看到一些相关的内容，于是选择了在github上用jekyll搭建博客。
+From the first blog I applied from Baidu in 2008, 10 years have passed. I cannot adapt to the Baidu space v2.0, so I move my articles to the CSDN. In this period, I had tried the WordPress, but it is very complicated to apply for space and verify it. And now I find a good solution in Github Pages: [https://643435675.github.io/2015/02/15/create-my-blog-with-jekyll/](https://643435675.github.io/2015/02/15/create-my-blog-with-jekyll/)
 
+This website is built from his template, Thank you very much for HyG! Here are some introductions from that website:
 
+## Build
 
+Follow the tutorial of jekyll on the website:[http://jekyllrb.com/](http://jekyllrb.com/)
 
+### install Ruby
 
-## 搭建过程
+ruby download：[https://www.ruby-lang.org/en/downloads/](https://www.ruby-lang.org/en/downloads/)
 
-在jekyll的官网上 [http://jekyllrb.com/](http://jekyllrb.com/) 其实已经说得比较明白了，我在这里还是简单的说一下吧。我用的是Windows系统。    
-主要环节有：安装Ruby，安装RubyGems，安装jekyll，安装代码高亮插件，安装node.js
-
-### 安装Ruby
-
-ruby官网下载安装：[https://www.ruby-lang.org/en/downloads/](https://www.ruby-lang.org/en/downloads/)
-
-安装完成后配置环境变量
+set the environment variation(path)
 
 在命令提示符中，得到ruby版本号，如下图，即安装成功
 
