@@ -4,6 +4,7 @@ title: "UVa 10276 - Hanoi Tower Troubles Again!"
 date: 2018-05-06 12:00:00
 categories: ACM
 tags: ACM
+
 ---
 
 * content
@@ -18,6 +19,10 @@ So, which is the biggest number can be put on the n-peg Hanoi Tower.
 ## Method
 
 Simulation as the problem and when there are not enough pegs, it comes to over.
+
+
+
+
 
 ## Code
 

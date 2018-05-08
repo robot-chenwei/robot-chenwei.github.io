@@ -4,6 +4,7 @@ title: "Jekyll Build Static Blog"
 date: 2018-05-03 13:27:00
 categories: jekyll
 tags: jekyll RubyGems
+mathjax: true
 ---
 
 * content
@@ -11,11 +12,14 @@ tags: jekyll RubyGems
 
 From the first blog I applied from Baidu in 2008, 10 years have passed. I cannot adapt to the Baidu space v2.0, so I move my articles to the CSDN. In this period, I had tried the WordPress, but it is very complicated to apply for space and verify it. And now I find a good solution in Github Pages: [https://643435675.github.io/2015/02/15/create-my-blog-with-jekyll/](https://643435675.github.io/2015/02/15/create-my-blog-with-jekyll/)
 
-This website is built from his template, Thank you very much for HyG! Here are some introductions from that website:
+This website is built from his template, Thank you very much for HyG! Here are some introductions from this website.
 
 ## Build
 
 Follow the tutorial of jekyll on the website:[http://jekyllrb.com/](http://jekyllrb.com/)
+
+
+
 
 ### install Ruby
 
