@@ -16,6 +16,9 @@ There n people play the Rock-Paper-Scissors game.
 
 What is the probability of win of each people.
 
+
+
+
 ## Method
 
 Calculate as the problem said: count the times of each people win and lose (w and l), and the probability is w/(w +l)
