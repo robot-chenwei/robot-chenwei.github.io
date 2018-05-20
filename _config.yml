@@ -7,7 +7,7 @@
 
 # Site settings
 title: 小白菜又菜
-brief-intro: Robotics and ACM Coder
+brief-intro: Robotics and ACMer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://baymin.github.io" # the base hostname & protocol for your site
 
