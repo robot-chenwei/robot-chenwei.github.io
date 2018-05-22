@@ -12,18 +12,19 @@ tags: ACM
 
 ## Problem
 
-There n people play the Rock-Paper-Scissors game. 
+There are n people play the Rock-Paper-Scissors game. 
 
-What is the probability of win of each people.
-
-
-
+What is the probability of of each people win the game.
 
 ## Method
 
 Calculate as the problem said: count the times of each people win and lose (w and l), and the probability is w/(w +l)
 
 If w and l are equal to zero, then output '-'.
+
+
+
+
 
 ## Code
 
