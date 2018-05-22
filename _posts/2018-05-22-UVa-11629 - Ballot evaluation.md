@@ -16,12 +16,13 @@ There are p variables, ecah one has a float value. And there are g guesses, ecah
 
 What is the probability of win of each people.
 
-
-
-
 ## Method
 
 Using map save the values of the variables, calculating the expression and comparing.
+
+
+
+
 
 ## Code
 
