@@ -4,19 +4,7 @@ title: "Ten discussions for the algorithm in CLRS - No.1 KMP"
 date: 2018-06-05 22:00:00
 categories: algorithm 
 tags: KMP
-
----
-
-* content
-{:toc}
-
----
-layout: post
-title: "Ten discussions for the algorithm in CLRS - No.1 KMP"
-date: 2018-06-04 22:00:00
-categories: algorithm 
-tags: KMP
-
+mathjax: true
 ---
 
 * content
